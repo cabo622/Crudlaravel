@@ -8,7 +8,7 @@
  <div class="pull-left"><h3>Lista Libros</h3></div>
  <div class="pull-right">
  <div class="btn-group">
- <a href="{{ route('libro.create') }}" class="btn btn-info" >Añadir Libro</a>
+ <a href="{{ route('libro.create') }}" class="btn btn-info" >Añadir Libros</a>
  </div>
  </div>
  <div class="table-container">
